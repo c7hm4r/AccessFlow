@@ -15,7 +15,7 @@
     <!-- SHFB properties -->
     <FrameworkVersion>.NET Framework 4.5</FrameworkVersion>
     <OutputPath>..\..\docu-website\</OutputPath>
-    <HtmlHelpName>Documentation for AccessFlow</HtmlHelpName>
+    <HtmlHelpName>Documentation for AccessFlow 1.0.0.2</HtmlHelpName>
     <Language>en-US</Language>
     <SaveComponentCacheCapacity>100</SaveComponentCacheCapacity>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
@@ -33,13 +33,15 @@
     <PresentationStyle>VS2013</PresentationStyle>
     <Preliminary>False</Preliminary>
     <NamingMethod>Guid</NamingMethod>
-    <HelpTitle>Documentation for AccessFlow</HelpTitle>
+    <HelpTitle>Documentation for AccessFlow 1.0.0.2</HelpTitle>
     <ContentPlacement>AboveNamespaces</ContentPlacement>
     <WorkingPath>D:\temp\sbhf working dir\</WorkingPath>
     <DocumentationSources>
       <DocumentationSource sourceFile="AccessFlow\bin\Release\AccessFlow.dll" />
       <DocumentationSource sourceFile="AccessFlow\bin\Release\AccessFlow.xml" />
     </DocumentationSources>
+    <CopyrightText>Copyright 2016 Christoph M&amp;#252%3bller. This is licensed under GNU LESSER GENERAL PUBLIC LICENSE Version 3. See https://github.com/2i/AccessFlow for sources.</CopyrightText>
+    <CopyrightHref>https://www.gnu.org/licenses/lgpl.txt</CopyrightHref>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
