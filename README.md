@@ -135,4 +135,5 @@ To create the NuGet and symbol package follow these steps:
 
 - GitHub project https://www.github.com/2i/AccessFlow/
 - Examples project https://www.github.com/2i/AccessFlowExamples/
+- Documentation https://2i.github.io/AccessFlowSHBFDocumentationWebsite/
 - NuGet package site https://www.nuget.org/packages/AccessFlow/
