@@ -109,12 +109,12 @@ but it is not required to make use of AccessFlow.
 
 ## Examples
 
-See https://github.com/2i/AccessFlowExamples.
+See https://github.com/c7hm4r/AccessFlowExamples.
 
 ## Obtaining
 
 This module is available as an NuGet package at [NuGet.org](https://www.nuget.org/packages/AccessFlow/).
-It may be downloaded manually from [GitHub](https://github.com/2i/AccessFlow/releases/).
+It may be downloaded manually from [GitHub](https://github.com/c7hm4r/AccessFlow/releases/).
 
 ## Build process
 
@@ -133,7 +133,7 @@ To create the NuGet and symbol package follow these steps:
 
 ## Links
 
-- GitHub project https://www.github.com/2i/AccessFlow/
-- Examples project https://www.github.com/2i/AccessFlowExamples/
-- Documentation https://2i.github.io/AccessFlowSHBFDocumentationWebsite/
+- GitHub project https://www.github.com/AccessFlow/
+- Examples project https://www.github.com/c7hm4r/AccessFlowExamples/
+- Documentation https://c7hm4r.github.io/AccessFlowSHBFDocumentationWebsite/
 - NuGet package site https://www.nuget.org/packages/AccessFlow/
